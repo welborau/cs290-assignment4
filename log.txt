@@ -6,6 +6,10 @@ Start: Mon Feb 2 18:39:11 2015 -0700
 End:   Mon Feb 2 20:38:21 2015 -0700
 Task: Started working on adding the html portions of multtable.php and installed xampp so I can check my php files locally.  Put multtable.php on localhost and tested it, got the form correct.  Trying to figure out if there is a easy way to separate the HMTL and the PHP portion on the same file.
 
-Start:
-End:
-Task:
+Start: Mon Feb 2 17:21:34 2015 -0700
+End:   Mon Feb 2 22:51:32 2015 -0700
+Task: Worked on creating a table using php with HTML_Table() and using $table->setCellContent etc, but when sharing it on the server, nothing showed up, and couldn't figure it out.  Now worried that the kind of language I am using is incorrect, more related to pear instead of php?
+
+Start: Mon Feb 2 23:14:11 2015 -0700
+End:   Mon Feb 3 02:37:33 2015 -0700
+Task: Had a discussion with a brother who deals with Web development at his company, finally realized how php and html worked.  Reworked on the program.  Talked to the professor on IRC and realized that I didn't need to use a form on multtable.php and just test it through url, so changed my program to reflect this.  Crazy night to be honest but an eye-opener.
