@@ -4,12 +4,32 @@ Task:  Created repository for assignment 4, created src folder, and log.txt, cre
 
 Start: Mon Feb 2 18:39:11 2015 -0700
 End:   Mon Feb 2 20:38:21 2015 -0700
-Task: Started working on adding the html portions of multtable.php and installed xampp so I can check my php files locally.  Put multtable.php on localhost and tested it, got the form correct.  Trying to figure out if there is a easy way to separate the HMTL and the PHP portion on the same file.
+Task:  Started working on adding the html portions of multtable.php and installed xampp so I can check my php files locally.  Put multtable.php on localhost and tested it, got the form correct.  Trying to figure out if there is a easy way to separate the HMTL and the PHP portion on the same file.
 
 Start: Mon Feb 2 17:21:34 2015 -0700
 End:   Mon Feb 2 22:51:32 2015 -0700
-Task: Worked on creating a table using php with HTML_Table() and using $table->setCellContent etc, but when sharing it on the server, nothing showed up, and couldn't figure it out.  Now worried that the kind of language I am using is incorrect, more related to pear instead of php?
+Task:  Worked on creating a table using php with HTML_Table() and using $table->setCellContent etc, but when sharing it on the server, nothing showed up, and couldn't figure it out.  Now worried that the kind of language I am using is incorrect, more related to pear instead of php?
 
 Start: Mon Feb 2 23:14:11 2015 -0700
 End:   Mon Feb 3 02:37:33 2015 -0700
-Task: Had a discussion with a brother who deals with Web development at his company, finally realized how php and html worked.  Reworked on the program.  Talked to the professor on IRC and realized that I didn't need to use a form on multtable.php and just test it through url, so changed my program to reflect this.  Crazy night to be honest but an eye-opener.
+Task:  Had a discussion with a brother who deals with Web development at his company, finally realized how php and html worked.  Reworked on the program.  Talked to the professor on IRC and realized that I didn't need to use a form on multtable.php and just test it through url, so changed my program to reflect this.  Crazy night to be honest but an eye-opener.
+
+Start: Fri Feb 6 13:33:45 2015 -0700
+End:   Fri Feb 6 14:11:51 2015 -0700
+Task:  Worked on fixing php sections on multtable.php but discovering problems with making my webpage show up, looked at announcements, seems that there are problems with making sessions work, so added that to the public_html folder.
+
+Start: Sun Feb 8 08:03:15 2015 -0700
+End:   Sun Feb 8 08:49:37 2015 -0700
+Task:  Begun loopback.php, but struggled to understand how to determine whether its a GET or POST form, looked up webpages, couldn't figure it out, decided to stop programming and reread php manual.
+
+Start: Sun Feb 8 17:47:32 2015 -0700
+End:   Sun Feb 8 22:50:18 2015 -0700
+Task:  Feeling better about php, finished loopback.php after getting some help from Google Hangout. Worked on multtable.php again and fixed up the table, but still had problems printing the table and values correctly.
+
+Start: Sat Feb 14 23:11:31 2015 -0700
+End    Sun Feb 15 01:22:35 2015 -0700
+Task:  Worked on login, content1, content2, got most of login to work, but couldn't figure out how session works correctly.
+
+Start: Sun Feb 15 12:03:11 2015 -0700
+End    Sun Feb 15 18:07:45 2015 -0700
+Task:  Worked on multtable, got table to work correctly, finished login, content1, content2, after understanding how session worked, it made everything else easier to work with.
